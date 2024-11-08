@@ -5,3 +5,349 @@ body {
     list-style: none;
 }
 
+* {
+    font-family: poppins;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    padding-top: 25px;
+    padding-left: 120px;
+    padding-bottom: 25px;
+}
+
+.button {
+    margin-left: 500px;
+}
+
+.button button {
+    border: none;
+    padding-left: 30px;
+    background-color: rgb(255, 255, 255);
+}
+
+.get {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    padding: 10px 30px;
+    font-family: poppins;
+    font-size: 14px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.beige_screen {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgba(236, 231, 228, 1);
+}
+
+.beige_text {
+    padding-top: 40px;
+    margin-left: 80px;
+}
+
+.wish {
+    font-size: 15px;
+    color: rgba(100, 92, 85, 1);
+    margin-top: 10px;
+}
+
+.home {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 50px;
+}
+
+.architecture {
+    font-size: 15px;
+    color: rgba(64, 62, 59, 1);
+}
+
+.read {
+    margin-left: 30px;
+}
+
+.white_screen {
+    padding-top: 70px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding-bottom: 70px;
+}
+
+.firm {
+    font-size: 28px;
+    color: rgba(64, 62, 59, 1);
+    margin-right:110px ;
+}
+
+.stephen{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+
+.build{
+    display: flex;
+    flex-direction: column;
+    background-image: url(./images/IMAGE\ \(4\).png);
+    background-size: 100%;
+    padding-left: 1000px;
+    padding-top: 250px;
+    padding-bottom: 250px;
+}
+
+.three_img{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.images{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row; 
+
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.how{
+    font-size: 40px;
+    margin-top: 0px;
+}
+
+.process{
+    margin-bottom: 0px;
+}
+
+.ladder{
+    display: flex;
+    background-image: url(./images/IMAGE\ \(6\).png);
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+    align-items: center;
+    justify-content: end;
+}
+
+.text_ladder{
+    margin-right: 70px;
+}
+
+.gray_screen{
+    display: flex;
+    background-color: rgba(64, 62, 59, 1);
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 70px;
+    padding-bottom: 115px;
+}
+
+.gray_text{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: rgb(255, 255, 255);
+    margin-left: 120px;
+}
+
+.gray_images{
+    display: flex;
+    flex-direction: column;
+}
+
+.gray_images1{
+    display: flex;
+    flex-direction: row;
+}
+
+.gray_images2{
+    display: flex;
+    flex-direction: row;
+}
+
+.gray_images1 img{
+    width: 110px;
+    margin-right: 180px;
+    padding-top: 100px;
+    height: fit-content;
+}
+
+.gray_images2 img{
+    width: 110px;
+    height: fit-content;
+    margin-right: 180px;
+    padding-top: 100px;
+}
+
+
+.wall{
+    display: flex;
+    background-image: url(./images/IMAGE\ \(11\).png);
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+    align-items: center;
+    justify-content: start;
+}
+
+.text_wall{
+    margin-left: 70px;
+}
+
+.future{
+    padding: 120px;
+    background-color: rgba(247, 247, 247, 1);
+}
+
+.gett{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    padding: 10px 30px;
+    font-family: poppins;
+    font-size: 14px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    position: absolute;
+    bottom: 40px;
+    left: 35px;
+}
+
+.help_get{
+    position: relative;
+}
+
+.ny{
+    font-size: 14px;
+    color: rgba(100, 92, 85, 1);
+    margin: 0;
+}
+
+.brb{
+    font-size: 23px;
+    color: rgba(64, 62, 59, 1);
+    margin: 0;
+}
+
+.help_p{
+    position: absolute;
+    left: 35px;
+    top: 40px;
+}
+
+.project{
+    font-size: 35px;
+    margin-bottom: 0;
+}
+
+.some {
+    margin-top: 0px;
+    color:rgba(100, 92, 85, 1);
+}
+
+.future_images{
+    display: flex;
+    justify-content: space-between;
+}
+
+.view{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.people{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 90px;
+    padding-bottom: 70px;
+}
+
+.meet{
+    font-size: 30px ;
+}
+
+.see{
+    margin-left: 20px;
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+.man{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 60px;
+}
+
+.man img{
+    margin-right: 23px;
+}
+
+.brown{
+    display: flex; 
+    padding-left: 130px;
+    padding-top: 100px;
+    background-color: rgba(206, 196, 188, 1);
+    align-items: center;
+    padding-bottom: 100px;
+}
+
+.get2{
+    color: rgba(100, 92, 85, 1);
+    font-size: 12px;
+    width: 100%;
+    height: 100%;
+    display: flex; 
+    justify-content: start;
+    align-items: center;
+}
+
+.think{
+    color: rgba(27, 26, 26, 1);
+    font-size: 35px;
+    width: 100%;
+    height: 100%;
+    display: flex; 
+    justify-content: start;
+    align-items: center;
+    white-space: nowrap;
+}
+.get3{
+    width: 100%;
+    height: 100%;
+    color: rgba(27, 26, 26, 1);
+    font-size: 14px;
+    display: flex; 
+    justify-content: end;
+    margin-right: 130px;
+}
+
+footer{
+    display: flex; 
+    padding-left: 130px;
+    padding-top: 100px;
+    align-items: center;
+    padding-bottom: 100px;
+}
+
+.logo_footer{
+    height: 23px;
+}
+
+.tree_img_footer{
+    margin-left: 680px;
+    margin-top: 80px;
+}
